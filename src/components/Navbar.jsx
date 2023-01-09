@@ -3,7 +3,7 @@ import React, { useState } from "react";
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
-    <div class="text-white bg-[#10141E]">
+    <div class="text-white ">
       <div class="px-4 py-5  mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:p-12">
         <div class="relative flex items-center justify-between">
           <a href="/" class="inline-flex items-center">

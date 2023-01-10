@@ -3,12 +3,12 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 export default function About() {
   return (
-    <div className="mt-4 grid grid-rows gap-10 text-[#cdccfd] text-center">
+    <div className="m-4 h-auto grid grid-rows lg:gap-10 gap-6 text-[#cdccfd] text-center">
         
-      <div className="text-7xl font-bold text-[#cdccfd] ">
+      <div className="lg:text-7xl text-5xl font-bold text-[#cdccfd] ">
         Hi, I am <span className="text-[#90a0d9]">Kelvin Nderitu.</span>
       </div>
-      <div className="text-4xl font-bold">A Front End Engineer.</div>
+      <div className="lg:text-4xl text-2xl font-bold">A Front End Engineer.</div>
       <div className="text-lg flex justify-center">
         <div className="w-3/4">
           Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis

@@ -40,6 +40,14 @@ export const data = [
     live: "https://enter-watch.vercel.app/",
   },
   {
+    id: 7,
+    name: "English Dictionary",
+    image:
+      "https://res.cloudinary.com/dodzzvz3z/image/upload/v1675026320/Pics/dictionary_npxfoc.png",
+    github: "https://github.com/carreuky/dictionary",
+    live: "  https://carreuky.github.io/dictionary/",
+  },
+  {
     id: 4,
     name: "Job Seeker",
     image:

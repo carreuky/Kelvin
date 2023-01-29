@@ -1,5 +1,21 @@
 export const data = [
   {
+    id: 5,
+    name: "Radio East Africa",
+    image:
+      "https://res.cloudinary.com/dodzzvz3z/image/upload/v1675025494/Pics/radio_jr3qan.png",
+    github: "https://github.com/carreuky/Radio-EA",
+    live: "https://radio-ea-carreuky.vercel.app/",
+  },
+  {
+    id: 6,
+    name: "Eddy 3D Prints",
+    image:
+      "https://res.cloudinary.com/dodzzvz3z/image/upload/v1675025553/Pics/eddy_wnpc0b.png",
+    github: "https://bespoke-medovik-6801ad.netlify.app/",
+    live: "https://bespoke-medovik-6801ad.netlify.app/",
+  },
+  {
     id: 1,
     name: "Vibrant",
     image:
@@ -27,7 +43,7 @@ export const data = [
     id: 4,
     name: "Job Seeker",
     image:
-    "https://res.cloudinary.com/dodzzvz3z/image/upload/v1673355952/Pics/job_at1r8m.png",
+      "https://res.cloudinary.com/dodzzvz3z/image/upload/v1673355952/Pics/job_at1r8m.png",
     github: "https://github.com/carreuky/Job-Portal",
     live: "https://job-portal-beige.vercel.app/",
   },
